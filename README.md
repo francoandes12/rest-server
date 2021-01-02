@@ -6,3 +6,5 @@ Crud de: <br/>
 -Productos<br/>
 -Categorias<br/>
 -Verificacion con token y subida de imagenes.
+## Documentacion hecha con Postman <br/>
+https://documenter.getpostman.com/view/10482931/TVsuBmgV
